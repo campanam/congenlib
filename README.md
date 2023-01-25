@@ -8,7 +8,7 @@ congenlib is a Ruby library for conservation genomics
 The software is made available under the Smithsonian Institution [terms of use](https://www.si.edu/termsofuse).  
 
 ## Installation using RubyGems and Bundler  
-The congenlib library can be installed using [RubyGems](http://www.rubygems.org) and [Bundler](https://bundler.io/) (available on most UNIX-like operating systems with [Ruby](http://www.ruby-lang.org) and RubyGems installed).  
+The congenlib library can be installed using [RubyGems](https://www.rubygems.org) and [Bundler](https://bundler.io/) (available on most UNIX-like operating systems with [Ruby](https://www.ruby-lang.org) and RubyGems installed).  
 
 In a terminal window, execute the following commands:  
 
