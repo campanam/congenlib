@@ -4,7 +4,7 @@
 # congenlib
 # Michael G. Campana, 2021
 CONGENLIBVER = '0.1.0'
-# Smithsonian Conservation Biology Institute
+# Smithsonian's National Zoo and Conservation Biology Institute
 #-----------------------------------------------------------------------------------------
 
 require 'zlib'
