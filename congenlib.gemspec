@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
 	s.email = 'campanam@si.edu'
 	s.files = ["lib/congenlib.rb"]
 	s.homepage = 'https://github.com/campanam/congenlib'
+	s.license = 'Nonstandard'
 end
